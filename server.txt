@@ -1,0 +1,7 @@
+E0111 02:31:50.778025000       1 socket_utils_common_posix.cc:223] check for SO_REUSEPORT: {"created":"@1641868310.777998000","description":"Protocol not available","errno":92,"file":"src/core/lib/iomgr/socket_utils_common_posix.cc","file_line":202,"os_error":"Protocol not available","syscall":"getsockopt(SO_REUSEPORT)"}
+INFO flower 2022-01-11 02:31:50,971 | app.py:77 | Flower server running (insecure, 3 rounds)
+INFO flower 2022-01-11 02:31:50,972 | server.py:118 | Initializing global parameters
+INFO flower 2022-01-11 02:31:50,972 | server.py:304 | Requesting initial parameters from one random client
+INFO flower 2022-01-11 02:34:02,381 | server.py:307 | Received initial parameters from one random client
+INFO flower 2022-01-11 02:34:02,381 | server.py:120 | Evaluating initial parameters
+INFO flower 2022-01-11 02:34:02,381 | server.py:133 | FL starting
