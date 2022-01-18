@@ -1,0 +1,4 @@
+DEBUG flower 2022-01-11 02:34:02,267 | connection.py:36 | ChannelConnectivity.IDLE
+DEBUG flower 2022-01-11 02:34:02,269 | connection.py:36 | ChannelConnectivity.CONNECTING
+DEBUG flower 2022-01-11 02:34:02,270 | connection.py:36 | ChannelConnectivity.READY
+INFO flower 2022-01-11 02:34:02,344 | app.py:61 | Opened (insecure) gRPC connection
